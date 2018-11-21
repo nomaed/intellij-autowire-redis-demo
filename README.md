@@ -24,4 +24,6 @@ Edit file [src/main/java/com/nomaed/debug/redistemplateintellij/DemoApplication.
 
 See the issue:
 
-<<img here>>
+![Screenshot](https://raw.githubusercontent.com/nomaed/intellij-autowire-redis-demo/master/intellij-error.png)
+
+![Tooltip](https://raw.githubusercontent.com/nomaed/intellij-autowire-redis-demo/master/error-text.png)
