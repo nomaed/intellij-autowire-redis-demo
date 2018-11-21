@@ -17,7 +17,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
-    @Resource(name = "redisTemplate") // intellij shows an error here
+    @Resource(name = "redisTemplate")
     ValueOperations<String, String> valueOps;
 
     public DemoApplication(@Value("${testvalue}") Integer testValue) {
